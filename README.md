@@ -1,1 +1,1 @@
-# ForestCoverType-Classifier
+A Classifier for predicting Forest types from cartographic variables for the Kaggle competition (https://www.kaggle.com/c/forest-cover-type-prediction)
